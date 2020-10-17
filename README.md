@@ -1,5 +1,5 @@
 <h1 align="center">
-    < title="Happy"  />
+    Happy
 </h1>
 
 <p align="center">
@@ -9,15 +9,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
- 
-</p>
 
-<br>
-
-<p align="center">
- 
-</p>
 
 ## 🚀 Tecnologias
 
